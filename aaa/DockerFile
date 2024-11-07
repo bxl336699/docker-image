@@ -1,2 +1,0 @@
-FROM docker.io/library/nginx:latest
-MAINTAINER bxl336699 <demonbxl@163.com>
