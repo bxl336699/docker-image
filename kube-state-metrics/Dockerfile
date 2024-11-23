@@ -1,1 +1,1 @@
-FROM bitnami/kube-state-metrics:2.13.0-debian-12-r9
+FROM bitnami/kube-state-metrics:2.14.0
